@@ -1,0 +1,4 @@
+[deps]
+LandauGinzburgCategories = "2919f0de-3dc0-11e9-1e09-4f58dddf8718"
+PolynomialRings = "c8ed2632-8d42-5af4-9089-7afd55769a28"
+RootSystems = "54ec4580-3427-44be-920c-82a0ec39fcd6"
