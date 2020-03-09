@@ -8,7 +8,7 @@ the thesis itself upon its publication.
 In the root directory of the repository, run
 
 ```sh
-julia --project -e 'using Pkg; Pkg.resolve()'
+julia --project -e 'using Pkg; Pkg.instantiate()'
 ```
 
 to install the dependencies. Then, use
